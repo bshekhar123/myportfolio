@@ -5,9 +5,9 @@ import {SiLeetcode,SiGeeksforgeeks,SiCodechef} from 'react-icons/si'
 import logo from '../img/logo1.png'
 
 const arr = [
-    {icon: <AiFillLinkedin className="h-6 w-6 text-2xl text-blue-700 hover:text-primary transition-all duration-500 ease-in-out"/>, title: 'Linkedin',href: 'https://www.linkedin.com/in/shekhar-biswas-17a720186/'},
-    {icon: <AiFillGithub className="h-6 w-6 text-2xl text-gray-900 hover:text-primary transition-all duration-500 ease-in-out"/>, title: 'Github', href: 'https://github.com/bshekhar123'},
-    {icon: <GrMail className="h-6 w-6 text-2xl text-red-700 hover:text-primary transition-all duration-500 ease-in-out"/>, title: 'Mail', href: 'mailto:bshekhar2001@gmail.com'},
+    {icon: <AiFillLinkedin className="h-6 w-6 text-2xl text-blue-700 "/>, title: 'Linkedin',href: 'https://www.linkedin.com/in/shekhar-biswas-17a720186/'},
+    {icon: <AiFillGithub className="h-6 w-6 text-2xl text-gray-900 "/>, title: 'Github', href: 'https://github.com/bshekhar123'},
+    {icon: <GrMail className="h-6 w-6 text-2xl text-red-700 "/>, title: 'Mail', href: 'mailto:bshekhar2001@gmail.com'},
     // {icon: <SiLeetcode className="h-6 w-6 text-2xl hover:text-primary transition-all duration-500 ease-in-out"/>, title: 'Leetcode', href: 'https://leetcode.com/anugoyal998/'},
     // {icon: <SiGeeksforgeeks className="h-6 w-6 text-2xl hover:text-primary transition-all duration-500 ease-in-out"/>, title: 'GeeksforGeeks', href: 'https://auth.geeksforgeeks.org/user/anugoyal998/profile'},
     // {icon: <SiCodechef className="h-6 w-6 text-2xl hover:text-primary transition-all duration-500 ease-in-out"/>, title: 'Codechef', href: 'https://www.codechef.com/users/goyalanubhav43'},
